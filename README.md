@@ -1,4 +1,4 @@
-# Handwritten Digits Explorer
+# Dimension Reduction with PCA on Handwritten Digits
 
 Which numbers do you think are hardest for a computer to recognize? 
 
